@@ -4,8 +4,8 @@ authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXIzQGVtYWls
 
 
 {
-    "mot": "sdfasdfdf",
-    "livre": "Ulysses",
+    "mot": "baize",
+    "livre": "The Mill & the Floss",
     "page": "35",
-    "dateTime": "2025-01-01T15:30:30:00.000Z"
+    "dateTime": "2023-01-01T15:30:30:00.000Z"
 }
