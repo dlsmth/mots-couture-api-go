@@ -1,9 +1,8 @@
 PUT http://localhost:8080/words/2
 content-type: application/json
-# authorization: 
 
 {
-    "mot": "sdfasdfdf",
+    "mot": "mollify",
     "livre": "The Mill & the Floss",
     "page": "35",
     "dateTime": "2025-01-01T15:30:30:00.000Z"
