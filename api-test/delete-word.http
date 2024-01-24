@@ -1,0 +1,2 @@
+DELETE http://localhost:8080/words/4
+# authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXIzQGVtYWlsLmNvbSIsImV4cCI6MTcwNTE5MjA0NSwidXNlcklkIjoyfQ.BfVrXXDMlbdNtl9Sb03f3OVuARVAWWbNjxUJqzHC6lg
